@@ -8,3 +8,4 @@ if (abs(1000 - num) <= 100) or (abs(2000 - num) <= 100):
     print('Yes')
 else:
     print('No')
+
